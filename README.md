@@ -80,7 +80,7 @@ accelerate>=0.24.0
 
 ## Acknowledgments
 
-- TQA Dataset: [AI2](https://allenai.org/)
+- TQA Dataset: [Allen AI]([https://allenai.org/](https://prior.allenai.org/projects/tqa))
 - Llama 2: Meta AI
 - ColBERT: Stanford NLP
 - Built with Hugging Face ecosystem
